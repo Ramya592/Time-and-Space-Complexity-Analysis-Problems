@@ -4,8 +4,6 @@
 
 This repository contains a collection of Java programs and theoretical explorations that analyze algorithm performance with a focus on **time complexity**, **space complexity**, and **real-world effects** like **cache behavior** and **CPU cycles**.
 
----
-
 ## 📂 Structure
 
 Each folder or file contains:
@@ -16,8 +14,6 @@ Each folder or file contains:
 - 📈 Empirical analysis using `System.nanoTime()` or `System.currentTimeMillis()`
 - 💬 Observations (cache effects, memory overhead, etc.)
 
----
-
 ## 🧪 Topics Covered
 
 - Median maintenance using heaps (O(log n) insertion, O(1) retrieval)
@@ -26,8 +22,6 @@ Each folder or file contains:
 - Array access patterns: sequential vs random
 - Comparison of algorithmic vs real execution time
 - Memoization vs recursion (space-time tradeoffs)
-
----
 
 ## 📊 Sample Output & Interpretation
 
